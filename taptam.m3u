@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241", President Cup Match 1
-https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/master.m3u8?hdnts=exp=1790227124~acl=/hls/*~hmac=7bcda962947d30d186f1da87d30676bca7cee4029b0d8ceaa01b232d3b5b0cb6
+https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/master.m3u8?hdnts=exp=1790230508~acl=/hls/*~hmac=1d6b8393cb5e9c60f65941bcf923eae5fee13964073aa1a1b0aa2cf92a80e78b
 #EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",President Cup Match 2
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",President Cup Match 3
