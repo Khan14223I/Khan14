@@ -19,9 +19,10 @@ https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 #EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",President Cup Match 1
-https://cdn05khi-n.tamashaweb.com:8087/jazzauth/PT2026-abr/playlist.m3u8
+https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PT2026-abr/playlist.m3u8
+
 #EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",President Cup Match 2
-https://cdn10khi-n.tamashaweb.com:8087/jazzauth/PT-B-2026-abr/playlist.m3u8
+https://cdn04fsd-n.tamashaweb.com:8087/jazzauth/PT-B-2026-abr/playlist.m3u8
 #EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",President Cup Match 3
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/PT-C-2026-abr/playlist.m3u8
 #EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",U19 Match 1
