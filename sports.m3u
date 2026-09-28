@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",AUS VS SA
-https://cdn03khi-n.tamashaweb.com:8087/jazzauth/SAvAUS-avod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI2IDg6MzU6MTcgQU0maGFzaF92YWx1ZT1jWGI4eTBMWFdRdWt0YldHa3J6eG5nPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",sky
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=1311995&extension=ts&play_token=35zQoekeZN
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKadxyaxz6E7McXfKMpF3I9-LgjQenvvTmU6htVudeSiAvhsfQc6YtGsx&s=10 ",AUS VS SA
 https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
