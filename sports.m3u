@@ -6,7 +6,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=1311995&exten
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=809389&extension=ts&play_token=Gnu4N6XfRi
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY 4K
-https://cdn91.rongintv.workers.dev/ch/384215
+http://filex.me.uk:8080/live/khan1422/khan1422/956620.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
