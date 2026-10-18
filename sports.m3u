@@ -3,7 +3,10 @@
 https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",AUS VS SA
-https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",Tamasha Pro
+https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index.m3u8?start=1792306800
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY SPORTS CRICKET 
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=1311995&extension=ts&play_token=35zQoekeZN
