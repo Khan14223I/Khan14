@@ -10,9 +10,6 @@ https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a60
 #KODIPROP:inputstream.adaptive.license_key=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b
 https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",Tamasha Pro
-https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index.m3u8?start=1792306800
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY SPORTS CRICKET 
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=1311995&extension=ts&play_token=35zQoekeZN
 
