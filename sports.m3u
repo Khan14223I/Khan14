@@ -34,7 +34,8 @@ http://filex.me.uk:8080/live/khan1422/khan1422/970119.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SUPER SPORTS CRICKET
 http://filex.me.uk:8080/live/khan1422/khan1422/53044.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUB SPORTS 4 http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090650.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUB SPORTS 4
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090650.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",RUSH SPORTS 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=809405&extension=ts&play_token=P65oN7finZ
