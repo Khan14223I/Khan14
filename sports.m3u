@@ -2,14 +2,6 @@
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKadxyaxz6E7McXfKMpF3I9-LgjQenvvTmU6htVudeSiAvhsfQc6YtGsx&s=10 ",AUS VS SA
 https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
 
-
-#EXTINF:-1 tvg-id="B0HN5C4CSG" tvg-name="ODI Tri-Nation Series in UAE 2026 - 2nd Match - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5efef589-1f64-4d38-aa3b-301bc9215d8f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ODI Tri-Nation Series in UAE 2026 - 2nd Match - Afghanistan vs Zimbabwe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY SPORTS CRICKET 
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=1311995&extension=ts&play_token=35zQoekeZN
 
@@ -28,7 +20,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 http://filex.me.uk:8080/live/khan1422/khan1422/250199.m3u8
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-http://filex.me.uk:8080/live/khan1422/khan1422/247166.m3u8
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/83174.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY 2 NZ
 http://filex.me.uk:8080/live/khan1422/khan1422/1339631.m3u8
@@ -42,6 +34,8 @@ http://filex.me.uk:8080/live/khan1422/khan1422/970119.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SUPER SPORTS CRICKET
 http://filex.me.uk:8080/live/khan1422/khan1422/53044.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUB SPORTS 4 http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090650.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", STAR 4K
 http://filex.me.uk:8080/live/khan1422/khan1422/966306.m3u8
 
@@ -51,23 +45,8 @@ http://filex.me.uk:8080/live/khan1422/khan1422/451415.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", CRICBUZZ 2
 http://filex.me.uk:8080/live/khan1422/khan1422/1342651.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", WATAN HD
-http://filex.me.uk:8080/live/khan1422/khan1422/516699.m3u8
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DD SPORTS HD
 http://filex.me.uk:8080/live/khan1422/khan1422/911450.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/slider/1787035473435.webp ",US OPEN Live
-https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",TAPMAD 1 LIVE 
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",TAPMAD 2 LIVE 
-https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg ",TAPMAD 3 LIVE
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA TSN1
 http://filex.me.uk:8080/live/khan1422/khan1422/290734.m3u8
@@ -134,6 +113,66 @@ http://filex.me.uk:8080/live/khan1422/khan1422/955659.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",STAR SPORTS 3
 http://filex.me.uk:8080/live/khan1422/khan1422/846950.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",HUB SPORTS 1
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090647.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",HUB SPORTS 2
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090648.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",HUB SPORTS 3
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090649.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",HUB SPORTS 5
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090651.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", FOX SPORTS 502
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/83175.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", FOX SPORTS 503
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/78155.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", FOX SPORTS 504
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/83176.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", FOX SPORTS 505
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/78156.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", FOX SPORTS 506
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/78157.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", FOX SPORTS 507
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/83177.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS SELECT
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/808730.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 1
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/808752.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 2
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/490346.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 3
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/490347.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 4
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/490348.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 5
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/808726.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 6
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/808737.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 7
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/490350.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 8
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/490351.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", SKY SPORTS 9
+http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/808740.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/maxresdefault.jpg ", Cricket Gold New
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
