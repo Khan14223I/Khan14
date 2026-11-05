@@ -1,38 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKadxyaxz6E7McXfKMpF3I9-LgjQenvvTmU6htVudeSiAvhsfQc6YtGsx&s=10 ",AUS VS SA
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241", President Cup Match 1
-https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/master.m3u8?hdnts=exp=1790230508~acl=/hls/*~hmac=1d6b8393cb5e9c60f65941bcf923eae5fee13964073aa1a1b0aa2cf92a80e78b
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",President Cup Match 2
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",President Cup Match 3
-https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",President Cup GOLD Match 1
-https://premierleageplnew2.akamaized.net/hls/live/2107109/Fifa2026/master.m3u8
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",President Cup GOLD Match 2
-https://premierleageplnew2.akamaized.net/hls/live/2107109/masd283674-auw/master.m3u8
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",U19 Match 1
-https://wcemeabackup.akamaized.net/hls/live/2103768/leag/master.m3u8
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",U19 Match 2
-https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",U19 Match 3
-https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKadxyaxz6E7McXfKMpF3I9-LgjQenvvTmU6htVudeSiAvhsfQc6YtGsx&s=10 ",TAPMAD 1
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
-#EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",President Cup Match 1
-https://cdn05khi-n.tamashaweb.com:8087/jazzauth/PT-D-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDY6MDE6NDQgQU0maGFzaF92YWx1ZT1oVjRybzh0R0ZXbzRZTnk4MzdQSWxBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 2
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 
-#EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",President Cup Match 2
-https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/PT-C-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDY6MDE6MjMgQU0maGFzaF92YWx1ZT1HWEpub29YL1lMMkJzcjBNWXp0c3RRPT0mdmFsaWRtaW51dGVzPTYw
 
-#EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",President Cup Match 3
-https://cdn08khi-n.tamashaweb.com:8087/jazzauth/PT-B-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDY6MDA6NTggQU0maGFzaF92YWx1ZT04b1RaUUlXc1NPdEZSdHpXczdpTldnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 3
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
-#EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",U19 Match 1
-https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/PT2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDU6NTk6MDkgQU0maGFzaF92YWx1ZT1WT2JSNFZQbUxPc2RQcFlBNEtVNUtBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 4
+https://tapmad-live.cdn.vustreams.com/live/77dd15d8-4adb-4d79-a8d8-c6b0c4eaf1c0/live.isml/77dd15d8-4adb-4d79-a8d8-c6b0c4eaf1c0.m3u8
 
-#EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",U19 Match 2
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/NM-U19-3dayB-avod-abr/playlist.m3u8
-#EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",U19 Match 3
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/NM-U19-3dayC-avod-abr/playlist.m3u8
-#EXTINF:-1 group-title="TAMASHA" tvg-logo="https://play-lh.googleusercontent.com/0mUFCkOpoFlK-GiSrSHiNqmXGJESPRciHmLBS4vzFd-tZ2nkBKcFpIaE65q1mGkOfivwcoxYdcoaVfk64V48NSw",U19 Match 4
-https://cdn02lhr-n.tamashaweb.com:8087/jazzauth/NM-U19-3dayD-avod-abr/playlist.m3u8
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 5
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 6
+https://tapmad-live.cdn.vustreams.com/live/4765ff72-83e9-439d-8260-448a91cc2e03/live.isml/4765ff72-83e9-439d-8260-448a91cc2e03.m3u8
+
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 7
+https://tapmad-live.cdn.vustreams.com/live/6f61aa6b-570b-45dd-8012-480ec01a2fc2/live.isml/6f61aa6b-570b-45dd-8012-480ec01a2fc2.m3u8
+
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 8
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+
+#EXTINF:-1 group-title="TAPMAD" tvg-logo="https://cdn-1.webcatalog.io/catalog/tapmad/tapmad-icon-unplated.png?v=1761525186241",TAPMAD 9
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
