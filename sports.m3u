@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKadxyaxz6E7McXfKMpF3I9-LgjQenvvTmU6htVudeSiAvhsfQc6YtGsx&s=10 ",AUS VS SA
-https://stream3.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY SPORTS CRICKET 
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=1311995&extension=ts&play_token=35zQoekeZN
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FOX SPORTS 501
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=809389&extension=ts&play_token=Gnu4N6XfRi
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY 4K
-http://filex.me.uk:8080/live/khan1422/khan1422/956620.m3u8
-
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="Khan14 Sports", WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -36,15 +24,6 @@ http://filex.me.uk:8080/live/khan1422/khan1422/53044.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUB SPORTS 4
 http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090650.m3u8
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",RUSH SPORTS 1
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=809405&extension=ts&play_token=P65oN7finZ
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",RUSH SPORTS 2
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=809406&extension=ts&play_token=2P2QYof7s2
-
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FLOW SPORTS
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A9:6F:52&stream=809404&extension=ts&play_token=yUfPFxOCxb
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", STAR 4K
 http://filex.me.uk:8080/live/khan1422/khan1422/966306.m3u8
