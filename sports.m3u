@@ -74,6 +74,10 @@ http://filex.me.uk:8080/live/khan1422/khan1422/247171.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg", TEN CRICKET
 http://filex.me.uk:8080/live/khan1422/khan1422/658436.m3u8
+
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", Tapmad
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
 https://superp4.xyz:80/live/GTD412371CVUFYU/MiC43BG8P3/510487.ts
 
