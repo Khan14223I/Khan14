@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", PAK VS IND FINAL
+https://cdn2aws.tamashaweb.com/out/v1/Tamasha-MPv2-Channel-Group-PROD/Tamasha-MPv2-Channel-2/E16IESJ60RPPDV2/index.m3u8?start=1794630600
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 
 http://filex.me.uk:8080/live/khan1422/khan1422/247171.m3u8
 
