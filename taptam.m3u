@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",Ind vs Pak Football Final
-https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?timeshift=1&delay=1800&mode=6
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",t10
+https://cdn02isb-n.tamashaweb.com:8087/jazzauth/abudhabi-t10-adfree-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNiAxOjU3OjU1IFBNJmhhc2hfdmFsdWU9UUErN2FCOTUvd21ETkRyYUdBUDV6dz09JnZhbGlkbWludXRlcz02MA%3D%3D
 
 #EXTINF:-1 group-title="TAPMAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 
 http://filex.me.uk:8080/live/khan1422/khan1422/247171.m3u8
