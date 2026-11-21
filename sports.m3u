@@ -34,6 +34,8 @@ http://filex.me.uk:8080/live/khan1422/khan1422/1342651.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DD SPORTS HD
 http://filex.me.uk:8080/live/khan1422/khan1422/911450.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",TNT SPORTS 3 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=894979&extension=ts&play_token=bnLT3acXiT
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",ZEE ZEST HD 
 http://filex.me.uk:8080/live/khan1422/khan1422/1345166.m3u8
 
