@@ -8,7 +8,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 http://filex.me.uk:8080/live/khan1422/khan1422/250199.m3u8
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.ibb.co/hvxssSM/Fox-Cricket-501.png" group-title="Khan14 Sports",Fox Sports 501 FHD
-http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/83174.m3u8
+http://filex.me.uk:8080/live/khan1422/khan1422/247166.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SKY 2 NZ
 http://filex.me.uk:8080/live/khan1422/khan1422/1339631.m3u8
@@ -22,20 +22,20 @@ http://filex.me.uk:8080/live/khan1422/khan1422/970119.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",SUPER SPORTS CRICKET
 http://filex.me.uk:8080/live/khan1422/khan1422/53044.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", HUB SPORTS 4
-http://besttvlive.xyz/live/4T1UQRS3R5ZHADD/v2UN44DvV6/1090650.m3u8
-
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", STAR 4K
 http://filex.me.uk:8080/live/khan1422/khan1422/966306.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ", CRICBUZZ
 http://filex.me.uk:8080/live/khan1422/khan1422/451415.m3u8
 
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", CRICBUZZ 2
+http://filex.me.uk:8080/live/khan1422/khan1422/1342651.m3u8
+
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="", DD SPORTS HD
 http://filex.me.uk:8080/live/khan1422/khan1422/911450.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",FIFA TSN1
-http://filex.me.uk:8080/live/khan1422/khan1422/290734.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",ZEE ZEST HD 
+http://filex.me.uk:8080/live/khan1422/khan1422/1345166.m3u8
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",UNITE8 SPORTS 1HD
 http://filex.me.uk:8080/live/khan1422/khan1422/1369004.m3u8
