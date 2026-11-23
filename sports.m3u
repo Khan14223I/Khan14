@@ -63,8 +63,7 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
 https://superp4.xyz:80/live/GTD412371CVUFYU/MiC43BG8P3/510487.ts
 
-#EXTINF:-1 tvg-id="fast_sports_hd" tvg-logo="http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png" group-title="Khan14 Sports",FAST SPORTS HD
-https://nayatvfe1.nayatel.com:3030/livesports/channel106hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="fast_sports_hd" tvg-logo="http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png" group-title="Khan14 Sports",FAST SPORTS HD https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/87460.ts
 
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
 http://filex.me.uk:8080/live/khan1422/khan1422/453434.m3u8
@@ -579,5 +578,5 @@ https://sscsott.com/qurantv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",Tamasha S5 Live
 https://stream3.aryzap.com/v1/01847abffd350b8ed59423613265/019fe25aeb1815fc600b3fc1f58412/main.m3u8
 
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",BIGG BOSS LIVE
-http://starhub.pro:80/live/atuljisgpr/sonuiptv/796272.ts
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo=" ",ASIACUP
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/23985.ts
